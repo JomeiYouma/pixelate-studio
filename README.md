@@ -1,5 +1,7 @@
 # Pixelate Studio
 
+**Live demo:** https://pixelate-studio-chi.vercel.app
+
 Load an image, pixelate it over a grid of a chosen resolution, edit it cell-by-cell, and
 **export a PNG with a transparent background**. A polished, fully client-side alternative to
 [pixelated.vercel.app](https://pixelated.vercel.app) with an animated
